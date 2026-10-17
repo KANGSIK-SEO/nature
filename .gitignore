@@ -1,0 +1,19 @@
+# Legacy Nature Crawling Archives (Do not track in paper submission repository)
+[0-9][0-9]/
+catalog.csv
+catalog.json
+crawl.py
+finalize.py
+write_summaries.py
+summaries_ko.json
+summary.json
+titles.txt
+index.html
+논문_50편_요약.md
+미술품_검증_서비스_분석.md
+세계_가짜미술품_검증회사_시사_크롤링.md
+README_CRAWL_ARCHIVE.md
+
+# System & OS files
+.DS_Store
+*.tmp
