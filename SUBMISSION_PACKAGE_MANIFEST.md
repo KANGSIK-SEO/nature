@@ -26,9 +26,10 @@
 
 ---
 
-### 2. Editorial & Verification Documentation
+* **[NATURE_SUBMISSION_DOSSIER.md](file:///Users/kangsikseo/Desktop/nature/NATURE_SUBMISSION_DOSSIER.md)**:  
+  Complete field-by-field copy-paste input dossier specifically designed for the **Nature Collection on *Quantum optimisation – theory, algorithms, and applications*** (*Scientific Reports*, Guest Editors: Dr. Xiangji Cai, Dr. Sankit Kassa, Dr. Andriyan Bayu Suksmono).
 * **[COVER_LETTER_NATURE.md](file:///Users/kangsikseo/Desktop/nature/COVER_LETTER_NATURE.md)**:  
-  Formal Nature Portfolio submission cover letter addressed to the Editorial Board, detailing:
+  Formal Nature Portfolio submission cover letter addressed to the Guest Editors, detailing:
   * Scientific significance across 612 real IBM Quantum QPU runs.
   * Mathematical resolution of the ancilla decoherence mechanism vs. single-qubit marginal measurement mismatch.
   * Multi-model AI transparency statement and engineering audit certification.

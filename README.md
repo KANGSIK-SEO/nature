@@ -57,6 +57,7 @@ nature/
 ├── manuscript_ko.html          # Source HTML manuscript (Korean)
 ├── COVER_LETTER_NATURE.md      # Formal Nature Portfolio Cover Letter
 ├── ENGINEERING_AUDIT_REPORT.md # Technical Verification & Proof Audit Report
+├── NATURE_SUBMISSION_DOSSIER.md # Field-by-Field Submission Dossier for Nature Collection
 ├── SUBMISSION_PACKAGE_MANIFEST.md # Submission Checklist & Package Manifest
 ├── figures/
 │   ├── fig1_hardware_icc_relevance.png           # Hardware audit & ICC vs. effect size

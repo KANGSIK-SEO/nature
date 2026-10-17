@@ -1,13 +1,17 @@
 # COVER LETTER: NATURE PORTFOLIO SUBMISSION
 
-**To:** The Editorial Board  
+**To:**  
+**Dr. Xiangji Cai, PhD**  
+**Dr. Sankit Kassa, PhD**  
+**Dr. Andriyan Bayu Suksmono, PhD**  
+Guest Editors, Collection on *Quantum optimisation – theory, algorithms, and applications*  
 ***Scientific Reports*** (Nature Portfolio)  
-**Special Collection:** *Quantum optimisation – theory, algorithms, and applications*  
 **Submission Date:** October 18, 2026  
+**Submission Deadline:** 23 November 2026  
 
 ---
 
-### Dear Editors,
+### Dear Dr. Cai, Dr. Kassa, Dr. Suksmono, and the Editorial Board,
 
 We are pleased to submit our original research manuscript entitled:
 
@@ -19,7 +23,7 @@ co-authored by:
 * **Kangsik Seo** — Supportive Contributor / Helpful Job (Independent Researcher; Hardware Operations, Continuous Power Supply, Multi-Account API Cycling, and Execution Upkeep; Email: `kangsikseoul@icloud.com`, GitHub: `KANGSIK-SEO`)
 * **IBM Quantum Hardware Fleet** — Physical QPU Execution Infrastructure
 
-for consideration as an Article in *Scientific Reports* within the Special Collection on *Quantum optimisation – theory, algorithms, and applications*.
+for consideration as an Article in *Scientific Reports* within your Collection on ***Quantum optimisation – theory, algorithms, and applications***.
 
 ---
 
@@ -64,10 +68,10 @@ In strict accordance with Nature's authorship and AI transparency guidelines:
 
 We suggest the following independent experts in quantum machine learning, quantum optimization, and error mitigation:
 
-1. **Prof. Masayuki Ohzeki** (Tohoku University / Sigma-i) — Expert in QUBO formulations and quantum annealing.
-2. **Dr. Kristan Temme** (IBM Thomas J. Watson Research Center) — Pioneer in NISQ error mitigation and quantum characterization.
-3. **Dr. Hsin-Yuan (Robert) Huang** (Caltech / Google Quantum AI) — Leading authority in quantum kernel methods and statistical learning theory.
-4. **Dr. Supanut Thanasilp** (EPFL / Chulalongkorn University) — Foremost expert on concentration and trainability of Projected Quantum Kernels.
+1. **Prof. Masayuki Ohzeki** (Tohoku University / Sigma-i; `mohzeki@tohoku.ac.jp`) — Expert in QUBO formulations, quantum annealing, and author of recent foundational paper in this Collection (*Sci. Rep.*, 17 Oct 2026).
+2. **Dr. Kristan Temme** (IBM Thomas J. Watson Research Center; `ktemme@us.ibm.com`) — Pioneer in NISQ error mitigation and quantum characterization.
+3. **Dr. Hsin-Yuan (Robert) Huang** (Caltech / Google Quantum AI; `hsinyuan@caltech.edu`) — Leading authority in quantum kernel methods and statistical learning theory.
+4. **Dr. Supanut Thanasilp** (EPFL / Chulalongkorn University; `supanut.thanasilp@epfl.ch`) — Foremost expert on concentration and trainability of Projected Quantum Kernels.
 
 Thank you very much for your time and consideration of our manuscript.
 
