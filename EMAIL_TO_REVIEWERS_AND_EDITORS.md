@@ -1,6 +1,6 @@
 # ACADEMIC INQUIRY & SUBMISSION EMAIL DRAFT
 
-**Source Account:** User's Gmail (`kangsikseoul@gmail.com` / `kangsikseoul@icloud.com`)  
+**Source Account:** User's Email (`kangsikseoul@icloud.com`)  
 **Target Journal:** *Scientific Reports* (Nature Portfolio)  
 **Special Collection:** *Quantum optimisation – theory, algorithms, and applications* (Deadline: 23 November 2026)  
 **Attachment:** `manuscript_en.pdf` (Location: `/Users/kangsikseo/Desktop/nature/manuscript_en.pdf`)  
@@ -55,5 +55,5 @@ Sincerely,
 Kangsik Seo
 Corresponding Author / Independent Researcher, Seoul, Republic of Korea
 GitHub: https://github.com/KANGSIK-SEO
-Email: kangsikseoul@gmail.com / kangsikseoul@icloud.com
+Email: kangsikseoul@icloud.com
 ```
